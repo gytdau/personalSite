@@ -13,7 +13,7 @@ Hi, I am a technical generalist.
 I care deeply about craft. I suspect most theories of impact underrate the commonplace and the beautiful, and undervalue obsession with doing the basic stuff well.
 </p>
 <p>
-In 2023, I moved from Dublin, Ireland to San Francisco. I'm currently building financial infrastructure for logistics at AtoB, and I previously interned at Stripe. I'm also an <a href="https://newscience.org/emergent-ventures-winners/">Emergent Ventures</a> grant recipient.
+In 2023, I moved from Dublin, Ireland to San Francisco. I am currently working on some open ended research. I previously built financial infrastructure for logistics at AtoB and interned at Stripe. I'm also an <a href="https://newscience.org/emergent-ventures-winners/">Emergent Ventures</a> grant recipient.
 </p>
 <p>
 You can email me here: <a href="mailto:gytdau@gmail.com">gytdau@gmail.com</a>.
